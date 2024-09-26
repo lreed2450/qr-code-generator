@@ -1,2 +1,2 @@
-streamlit=1.38.0
-pyqrcode=1.2.1
+pyqrcode==1.2.1
+streamlit==1.38.0
